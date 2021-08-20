@@ -1,6 +1,7 @@
 #!/bin/bash
 
-##Starting updating the CentOS repos
+## Script developed by Ankit @ankitsynX
+##Start updating the CentOS repos
 
 echo "Adding Centos OS and extra repos to repos.d"
 cd /etc/yum.repos.d
